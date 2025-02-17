@@ -19,10 +19,6 @@ Matplotlib library (for visualization)
 You can install the required libraries using pip:
 pip install pygame numpy matplotlib
 
-Running the Game
-Clone the repository:
-git clone https://github.com/your-username/airplane-battle.git
-
 Navigate to the project directory:
 cd airplane-battle
 

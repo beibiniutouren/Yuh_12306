@@ -54,7 +54,7 @@ PLAYER_IMG = pygame.transform.scale(PLAYER_IMG, (50, 50))
 ENEMY_IMG = pygame.transform.scale(ENEMY_IMG, (50, 50))
 Player and Enemy Classes
 The Player and Enemy classes handle the movement and updates of the player's airplane and enemy airplanes, respectively.
-Python复制
+
 class Player:
     def __init__(self):
         self.image = PLAYER_IMG

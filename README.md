@@ -1,6 +1,9 @@
+airplane_1 is code that before update,airplane_2 is code that update
+
 Here's an English README that you can upload to GitHub for your project:
 Airplane Battle Game with Q-learning
 This project is a simple yet engaging airplane battle game developed using Python and Pygame. It incorporates Q-learning, a type of reinforcement learning, to enable the player's airplane to learn and improve its strategy over time.
+
 Features
 Dynamic Game Environment: The game features a dynamic environment where enemies (airplanes) drop from the top and move downwards.
 Q-learning Integration: The game uses Q-learning to train the player's airplane to make better decisions and improve its survival skills.
